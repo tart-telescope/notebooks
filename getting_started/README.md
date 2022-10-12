@@ -30,4 +30,4 @@ First download a data file from the telescope web front end (remember to set the
  ![Image generated from raw data][raw_image] 
 
     
-[raw_image]: https://github.com/tmolteno/TART/blob/master/doc/getting_started/raw_image.jpg "TART Raw Data Image"
+[raw_image]: https://github.com/rubyvanrooyen/notebooks/blob/main/getting_started/raw_image.jpg "TART Raw Data Image"
