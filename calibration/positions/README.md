@@ -16,8 +16,7 @@ Then do the upload
 ### Making modifications permanent
 
 The positions can also be updated by modifying the json file
-[software/telescope_web_api/config_data/calibrated_antenna_positions.json]
-[test_data/calibrated_antenna_positions.json](../test_data/calibrated_antenna_positions.json).
+[test_data/calibrated_antenna_positions.json](../../test_data/calibrated_antenna_positions.json).
 These positions are then permanently modified.
 
 
