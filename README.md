@@ -4,4 +4,6 @@
 * [Calibration](calibration/README.md)
 * [Application](application/README.md)
 
-Miscellaneous other documentation is contained in the misc subfolder.
+Miscellaneous other documentation related to TART raw data processing can be found in the
+[TART/doc](https://github.com/tmolteno/TART/tree/master/doc)
+repository
