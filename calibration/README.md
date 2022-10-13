@@ -19,6 +19,8 @@ directory. Once these positions are known, they are entered into a telescope cal
 (../../software/containers/telescope_web_api/config_data/calibrated_antenna_positions.json)
 [test_data/calibrated_antenna_positions.json]
 (https://github.com/rubyvanrooyen/notebooks/blob/main/test_data/calibrated_antenna_positions.json)    
+[test_data/calibrated_antenna_positions.json]
+(test_data/calibrated_antenna_positions.json)    
 
 An example of a calibration file is shown below:
 
