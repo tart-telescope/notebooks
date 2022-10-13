@@ -9,7 +9,8 @@ Once the positions of the antennas are known, then phase calibration is possible
 
 ## Automatic Calibration from Satellite Positions
 
-A software container that will automatically do this (and install the required pre-requisites) is described in [software/containers/calibration_server](../../../software/containers/calibration_server/README.md)
+A software container that will automatically do this (and install the required pre-requisites) is described in
+[software/containers/calibration_server](../../../software/containers/calibration_server/README.md)
 
 
 ## Manual Single-Point Source Calibration
